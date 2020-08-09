@@ -1,5 +1,5 @@
 # russian-travel
-## Путешествие по России
+## [Путешествие по России](https://vyacheslavkrasovskiy.github.io/russian-travel/)
 ### Проектная работа №3 на [Яндекс Практикум](https://www.praktikum.yandex.ru)
 
 Проект создан в рамках обучения на втором курсе в качестве проектной работы
