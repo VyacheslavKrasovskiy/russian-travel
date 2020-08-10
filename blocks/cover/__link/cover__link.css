@@ -22,10 +22,12 @@
     bottom: 0;
     right: 0;
     background: #2A2C2F;
+    transition: 1s;
     opacity: .3;
 }
 
 .cover__link:hover::before {
+    transition: 0.3s linear 0.1s;
     opacity: .8;
 }
 

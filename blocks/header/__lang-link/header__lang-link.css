@@ -5,6 +5,7 @@
     line-height: 1.2;
     color: #fff;
     text-decoration: none;
+    transition: 1s;
 }
 
 .header__lang-link:last-of-type {
@@ -12,7 +13,8 @@
 }
 
 .header__lang-link:hover {
-    opacity: .3;
+    transition: 0.3s linear 0.1s;
+    opacity: .8;
 }
 
 @media screen and (max-width: 767px) {

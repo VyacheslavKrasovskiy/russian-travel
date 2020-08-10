@@ -4,9 +4,11 @@
     color: #fff;
     text-decoration: none;
     line-height: 1.125;
+    transition: 1s;
 }
 
 .footer__link:hover {
+    transition: 0.3s linear 0.1s;
     opacity: .8;
 }
 
