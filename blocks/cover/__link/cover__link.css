@@ -38,14 +38,12 @@
 
 @media screen and (max-width: 1023px) {
 .cover__link {
-    height: 62.5vw;
     max-height: 640px;
 }
 }
 
 @media screen and (max-width: 767px) {
 .cover__link {
-    height: 62.5vw;
     max-height: 480px;
 }
 }

@@ -4,11 +4,6 @@
     color: #fff;
     text-decoration: none;
     line-height: 1.125;
-    margin-right: 18px;
-}
-
-.footer__link:last-of-type {
-    margin: 0;
 }
 
 .footer__link:hover {
@@ -17,7 +12,6 @@
 
 @media screen and (max-width: 767px) {
 .footer__link {
-    margin-bottom: 32px;
     font-size: 24px;
 }
 }
